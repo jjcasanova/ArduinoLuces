@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="programa_de_encendido_y_apagado_de_luces">Programa de encendido y apagado de luces</string>
+    <string name="conexi_n_bluetooth">Conexión Bluetooth</string>
+</resources>
